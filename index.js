@@ -2,7 +2,7 @@
 
 
 function start(params) {
-    return "ich bin der " + params + "!"
+    return "ich bin die " + params + "!"
 }
 
-console.log(start("Detlef"));
+console.log(start("Maxine"));

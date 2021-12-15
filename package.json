@@ -1,0 +1,24 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Projekt-Blockchain/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Projekt-Blockchain/test-repo/issues"
+  },
+  "homepage": "https://github.com/Projekt-Blockchain/test-repo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
