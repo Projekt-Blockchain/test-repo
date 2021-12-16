@@ -5,4 +5,4 @@ function start(params) {
     return "ich bin die " + params + "!"
 }
 
-console.log(start("Maxine"));
+console.log(start("Maxi"));
